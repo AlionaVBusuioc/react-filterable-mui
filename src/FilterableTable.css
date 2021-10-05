@@ -1,0 +1,26 @@
+.paperStyle {
+  padding: 20px;
+  height: 110vh;
+  width: 90vw;
+  margin: 20px auto;
+  border: 1px solid black;
+}
+.center {
+  text-align: center;
+}
+.paperFilters {
+  height: 25vh;
+  width: 90vw;
+  border: 1px solid grey;
+}
+.arrange {
+  margin-left: 10px;
+}
+.formControl {
+  width: 44vw;
+}
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 10px;
+}
